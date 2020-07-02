@@ -1,0 +1,1 @@
+# oop-lan-party-checker

@@ -2,7 +2,7 @@
 
 #------------------------------------------------------------------------------
 # 
-#   CHECKER Tema 1 POO, 2020-2021
+#   OOP Lan Party Checker, 2020-2021
 #
 #   Authors: Rusu Gabriel & Tudose Ionut
 #

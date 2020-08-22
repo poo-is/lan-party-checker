@@ -2,7 +2,7 @@
   OOP Lan Party Checker  
 </h1>
 
-OOP Lan Party Checker is a script designed to automate the homework testing. It's an open source project build by teaching assistants for students of Faculty of Automatic Control & Systems Engineering - PUB. It's purpose is to make the grading systems more transparent and easier for both students & teaching assistants
+OOP Lan Party Checker is a script designed to automate the homework testing. It's an open-source project build by teaching assistants for students of Faculty of Automatic Control & Systems Engineering - PUB. Its purpose is to make the grading systems more transparent and easier for both students & teaching assistants.
 
 
 ## Running the Checker
